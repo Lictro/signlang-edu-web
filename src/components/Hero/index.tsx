@@ -9,12 +9,6 @@ export default function Hero() {
       <p className="text-xl text-brand-teal mb-8 max-w-xl">
         AI-powered sign language recognition. Learn, detect, and practice signs effortlessly.
       </p>
-      <a
-        href="/detect"
-        className="bg-brand-green hover:bg-brand-teal text-white font-semibold px-6 py-3 rounded-lg transition"
-      >
-        Start Detecting
-      </a>
     </section>
   );
 }
